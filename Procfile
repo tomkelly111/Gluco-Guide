@@ -1,0 +1,1 @@
+web: gunicorn Glucose_Guru.wsgi
